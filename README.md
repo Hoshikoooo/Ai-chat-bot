@@ -3,6 +3,7 @@
 
 ## Features and commands 🌟
 
+
 <details>
 <summary><strong>Features ✨ (Click to expand)</strong></summary>
 
